@@ -1,0 +1,10 @@
+.Meta {
+  background: #0000ff;
+  color: white;
+  text-align: center;
+}
+
+.Report__Label {
+  text-align: right;
+  font-weight: bold;
+}
